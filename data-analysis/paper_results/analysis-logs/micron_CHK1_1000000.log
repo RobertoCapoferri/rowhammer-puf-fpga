@@ -1,0 +1,213 @@
+analyzing data
+micron
+CHK1
+1000000
+./logs/micron
+##### micron_CHK1_1M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### micron_CHK1_1M #####
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+##### micron_CHK1_1M #####
+[rand_rows_uniq_flip_count] avg: 0.002 (min: 0.000 - max: 61.000)
+[rand_rows_uniq] insufficient flip count, skipping plots and jaccards
+##### micron_CHK1_1M #####
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard

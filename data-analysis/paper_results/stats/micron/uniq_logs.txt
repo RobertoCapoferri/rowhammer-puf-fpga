@@ -1,0 +1,30 @@
+##### micron_SOL0_10M #####
+[rand_rows_uniq_flip_count] avg: 7.471 (min: 0.000 - max: 53.000)
+[rand_rows_uniq] col distr entropy: 13.941 bits
+[micron_SOL0_10Mjinter] avg: 0.000 (min: 0.000 - max: 0.500)
+[micron_SOL0_10Mjinter_exp] avg: 0.000 (min: 0.000 - max: 0.002)
+##### micron_SOL1_10M #####
+[rand_rows_uniq_flip_count] avg: 7.423 (min: 0.000 - max: 75.000)
+[rand_rows_uniq] col distr entropy: 13.940 bits
+[micron_SOL1_10Mjinter] avg: 0.000 (min: 0.000 - max: 1.000)
+[micron_SOL1_10Mjinter_exp] avg: 0.000 (min: 0.000 - max: 0.002)
+##### micron_CHK1_5M #####
+[rand_rows_uniq_flip_count] avg: 6.396 (min: 0.000 - max: 61.000)
+[rand_rows_uniq] col distr entropy: 13.933 bits
+[micron_CHK1_5Mjinter] avg: 0.000 (min: 0.000 - max: 1.000)
+[micron_CHK1_5Mjinter_exp] avg: 0.000 (min: 0.000 - max: 0.001)
+##### micron_CHK1_10M #####
+[rand_rows_uniq_flip_count] avg: 46.172 (min: 0.000 - max: 111.000)
+[rand_rows_uniq] col distr entropy: 13.988 bits
+[micron_CHK1_10Mjinter] avg: 0.001 (min: 0.000 - max: 0.500)
+[micron_CHK1_10Mjinter_exp] avg: 0.001 (min: 0.000 - max: 0.003)
+##### micron_ROS1_5M #####
+[rand_rows_uniq_flip_count] avg: 5.389 (min: 0.000 - max: 53.000)
+[rand_rows_uniq] col distr entropy: 13.920 bits
+[micron_ROS1_5Mjinter] avg: 0.000 (min: 0.000 - max: 1.000)
+[micron_ROS1_5Mjinter_exp] avg: 0.000 (min: 0.000 - max: 0.001)
+##### micron_ROS1_10M #####
+[rand_rows_uniq_flip_count] avg: 41.729 (min: 0.000 - max: 171.000)
+[rand_rows_uniq] col distr entropy: 13.985 bits
+[micron_ROS1_10Mjinter] avg: 0.001 (min: 0.000 - max: 0.065)
+[micron_ROS1_10Mjinter_exp] avg: 0.001 (min: 0.000 - max: 0.005)

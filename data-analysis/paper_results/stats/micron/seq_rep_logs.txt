@@ -1,0 +1,5 @@
+[##### micron_SOL1_10M #####] avg jintra for sequentially selected rows = 0.970 (min: 0.625)
+[##### micron_CHK1_5M #####] avg jintra for sequentially selected rows = 0.970 (min: 0.625)
+[##### micron_CHK1_10M #####] avg jintra for sequentially selected rows = 0.968 (min: 0.733)
+[##### micron_ROS1_5M #####] avg jintra for sequentially selected rows = 0.962 (min: 0.667)
+[##### micron_ROS1_10M #####] avg jintra for sequentially selected rows = 0.974 (min: 0.844)

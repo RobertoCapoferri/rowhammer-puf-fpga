@@ -1,0 +1,8 @@
+[##### zentel_SOL0_5M #####] avg jintra for sequentially selected rows = 0.957 (min: 0.625)
+[##### zentel_SOL0_10M #####] avg jintra for sequentially selected rows = 0.968 (min: 0.750)
+[##### zentel_SOL1_5M #####] avg jintra for sequentially selected rows = 0.946 (min: 0.538)
+[##### zentel_SOL1_10M #####] avg jintra for sequentially selected rows = 0.964 (min: 0.821)
+[##### zentel_CHK1_5M #####] avg jintra for sequentially selected rows = 0.966 (min: 0.872)
+[##### zentel_CHK1_10M #####] avg jintra for sequentially selected rows = 0.979 (min: 0.927)
+[##### zentel_ROS1_5M #####] avg jintra for sequentially selected rows = 0.966 (min: 0.881)
+[##### zentel_ROS1_10M #####] avg jintra for sequentially selected rows = 0.978 (min: 0.917)

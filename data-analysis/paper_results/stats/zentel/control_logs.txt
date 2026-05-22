@@ -1,0 +1,48 @@
+##### zentel_SOL0_500k #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_SOL0_1M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_SOL0_5M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_SOL0_10M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_SOL1_500k #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_SOL1_1M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_SOL1_5M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_SOL1_10M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_CHK1_500k #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_CHK1_1M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_CHK1_5M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_CHK1_10M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_ROS1_500k #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_ROS1_1M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_ROS1_5M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### zentel_ROS1_10M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)

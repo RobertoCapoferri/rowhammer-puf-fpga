@@ -1,0 +1,215 @@
+analyzing data
+micron
+ROS1
+5000000
+./logs/micron
+##### micron_ROS1_5M #####
+[control] control passed 500/500 (100.00%)
+[control] avg: 0.000 (min: 0.000 - max: 0.000)
+##### micron_ROS1_5M #####
+[rand_rows_rep_flip_count] avg: 4.230 (min: 4.000 - max: 5.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 18.000 (min: 18.000 - max: 18.000)
+[rand_rows_rep_jintra] avg: 1.000 (min: 1.000 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 2.000 (min: 2.000 - max: 2.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 6.000 (min: 6.000 - max: 6.000)
+[rand_rows_rep_jintra] avg: 1.000 (min: 1.000 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 8.030 (min: 8.000 - max: 9.000)
+[rand_rows_rep_jintra] avg: 0.993 (min: 0.889 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 8.600 (min: 7.000 - max: 9.000)
+[rand_rows_rep_jintra] avg: 0.927 (min: 0.667 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 3.740 (min: 3.000 - max: 5.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 15.470 (min: 15.000 - max: 17.000)
+[rand_rows_rep_jintra] avg: 0.958 (min: 0.833 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 20.000 (min: 20.000 - max: 20.000)
+[rand_rows_rep_jintra] avg: 1.000 (min: 1.000 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 2.040 (min: 2.000 - max: 3.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 12.320 (min: 11.000 - max: 13.000)
+[rand_rows_rep_jintra] avg: 0.964 (min: 0.846 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 3.550 (min: 3.000 - max: 4.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 18.640 (min: 17.000 - max: 20.000)
+[rand_rows_rep_jintra] avg: 0.951 (min: 0.800 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 21.830 (min: 21.000 - max: 23.000)
+[rand_rows_rep_jintra] avg: 0.981 (min: 0.913 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 13.000 (min: 13.000 - max: 13.000)
+[rand_rows_rep_jintra] avg: 1.000 (min: 1.000 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 2.900 (min: 2.000 - max: 3.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 2.000 (min: 2.000 - max: 2.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 6.000 (min: 6.000 - max: 6.000)
+[rand_rows_rep_jintra] avg: 1.000 (min: 1.000 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 19.970 (min: 19.000 - max: 20.000)
+[rand_rows_rep_jintra] avg: 0.997 (min: 0.950 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 5.000 (min: 5.000 - max: 5.000)
+[rand_rows_rep_jintra] avg: 1.000 (min: 1.000 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 13.220 (min: 12.000 - max: 15.000)
+[rand_rows_rep_jintra] avg: 0.956 (min: 0.750 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 5.300 (min: 5.000 - max: 7.000)
+[rand_rows_rep_jintra] avg: 0.920 (min: 0.714 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 19.930 (min: 18.000 - max: 21.000)
+[rand_rows_rep_jintra] avg: 0.977 (min: 0.857 - max: 1.000)
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+[rand_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[rand_rows_rep] insufficient flip count, skipping jaccard
+##### micron_ROS1_5M #####
+[rand_rows_uniq_flip_count] avg: 5.389 (min: 0.000 - max: 53.000)
+[rand_rows_uniq] col distr entropy: 13.920 bits
+[micron_ROS1_5Mjinter] avg: 0.000 (min: 0.000 - max: 1.000)
+[micron_ROS1_5Mjinter_exp] avg: 0.000 (min: 0.000 - max: 0.001)
+##### micron_ROS1_5M #####
+[seq_rows_rep_flip_count] avg: 1.000 (min: 1.000 - max: 1.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 18.690 (min: 18.000 - max: 19.000)
+[seq_rows_rep_jintra] avg: 0.977 (min: 0.947 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 4.000 (min: 4.000 - max: 4.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 3.000 (min: 3.000 - max: 3.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 20.420 (min: 19.000 - max: 21.000)
+[seq_rows_rep_jintra] avg: 0.974 (min: 0.905 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 2.910 (min: 2.000 - max: 3.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 6.040 (min: 5.000 - max: 7.000)
+[seq_rows_rep_jintra] avg: 0.881 (min: 0.714 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 17.950 (min: 17.000 - max: 18.000)
+[seq_rows_rep_jintra] avg: 0.995 (min: 0.944 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 9.780 (min: 9.000 - max: 10.000)
+[seq_rows_rep_jintra] avg: 0.965 (min: 0.900 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 12.390 (min: 12.000 - max: 13.000)
+[seq_rows_rep_jintra] avg: 0.962 (min: 0.857 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 0.990 (min: 0.000 - max: 1.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 18.840 (min: 18.000 - max: 20.000)
+[seq_rows_rep_jintra] avg: 0.947 (min: 0.850 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 7.940 (min: 7.000 - max: 8.000)
+[seq_rows_rep_jintra] avg: 0.986 (min: 0.875 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 11.000 (min: 11.000 - max: 11.000)
+[seq_rows_rep_jintra] avg: 1.000 (min: 1.000 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 15.270 (min: 15.000 - max: 17.000)
+[seq_rows_rep_jintra] avg: 0.971 (min: 0.882 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 6.370 (min: 5.000 - max: 7.000)
+[seq_rows_rep_jintra] avg: 0.929 (min: 0.714 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 5.100 (min: 4.000 - max: 6.000)
+[seq_rows_rep_jintra] avg: 0.957 (min: 0.667 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 20.910 (min: 18.000 - max: 23.000)
+[seq_rows_rep_jintra] avg: 0.909 (min: 0.739 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 20.170 (min: 19.000 - max: 22.000)
+[seq_rows_rep_jintra] avg: 0.952 (min: 0.818 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 2.000 (min: 2.000 - max: 2.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 17.350 (min: 17.000 - max: 18.000)
+[seq_rows_rep_jintra] avg: 0.974 (min: 0.944 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 16.010 (min: 15.000 - max: 17.000)
+[seq_rows_rep_jintra] avg: 0.981 (min: 0.882 - max: 1.000)
+[seq_rows_rep_flip_count] avg: 3.000 (min: 3.000 - max: 3.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 1.000 (min: 1.000 - max: 1.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 0.000 (min: 0.000 - max: 0.000)
+[seq_rows_rep] insufficient flip count, skipping jaccard
+[seq_rows_rep_flip_count] avg: 20.000 (min: 20.000 - max: 20.000)
+[seq_rows_rep_jintra] avg: 1.000 (min: 1.000 - max: 1.000)

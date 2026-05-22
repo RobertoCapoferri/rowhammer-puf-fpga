@@ -1,0 +1,6 @@
+[##### micron_SOL0_10M #####] avg jintra for randomly selected rows = 0.971 (min: 0.667)
+[##### micron_SOL1_10M #####] avg jintra for randomly selected rows = 0.975 (min: 0.800)
+[##### micron_CHK1_5M #####] avg jintra for randomly selected rows = 0.985 (min: 0.857)
+[##### micron_CHK1_10M #####] avg jintra for randomly selected rows = 0.983 (min: 0.812)
+[##### micron_ROS1_5M #####] avg jintra for randomly selected rows = 0.977 (min: 0.667)
+[##### micron_ROS1_10M #####] avg jintra for randomly selected rows = 0.978 (min: 0.854)
