@@ -1,4 +1,4 @@
-# Rowhammer PUF FPGA Testing Platformo
+# Rowhammer PUF FPGA Testing Platform
 
 Code supporting the platform described in the paper 
 "An FPGA Platform for Evaluating RowHammer-based DRAM PUFs".
