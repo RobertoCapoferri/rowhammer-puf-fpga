@@ -16,3 +16,7 @@ README.md with further details.
     - `cpu` program that runs on the MicroBlaze CPU on the FPGA
     - `fpga-board` vhdl source for the hammer peripheral, IPs for the block design and some specific files for the Nexys Video board
     - `host-pc` data collection script
+
+## Dataset
+
+The dataset collected is available on [Zenodo](https://doi.org/10.5281/zenodo.20393097).

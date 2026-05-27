@@ -35,6 +35,9 @@ out-of-context syntesys for this component.
 Before running one needs to add the `.elf` file to the MicroBlaze
 CPU that runs the test procedure. To obtain the `.elf` file.
 
+NOTE: the design include two Integrated Logic Analyzer (ILA) blocks
+for debug purposes and can be removed if not needed.
+
 ### CPU
 
 This folder contains a single file `testperiph.c` that implements the 
