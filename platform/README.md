@@ -28,12 +28,13 @@ the sources for the block design and the hammering peripheral.
 
 The MIG controller needs to be configured such that the refresh is 
 handled manyally. This cannot be done in the IP configurator wizard and
-needs to be done by hand after the design has ben instantiated by
+needs to be done by hand after the design has been instantiated by
 changing the parameter `USER_REFRESH` to `"ON"` and disabling the
 out-of-context syntesys for this component.
 
 Before running one needs to add the `.elf` file to the MicroBlaze
-CPU that runs the test procedure. To obtain the `.elf` file.
+CPU that runs the test procedure. To obtain the `.elf` file, follow
+the procedure in the next section.
 
 NOTE: the design include two Integrated Logic Analyzer (ILA) blocks
 for debug purposes and can be removed if not needed.
@@ -44,9 +45,9 @@ This folder contains a single file `testperiph.c` that implements the
 logic needed to communicate via serial and handle tests on the hammering
 peripheral. To use this file, follow the steps below.
 
-After implementation, generate the bitstream and export the hardware
-platform as an `.xsa` file, making sure to flag the "include bitstream"
-field.
+After implementation of the platform in vivado, generate the bitstream 
+and export the hardware platform as an `.xsa` file, making sure to flag 
+the "include bitstream" field.
 
 Launch Vitis and create a new project then:
 - create a platform using the exported `.xsa`

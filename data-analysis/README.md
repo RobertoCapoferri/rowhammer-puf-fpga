@@ -31,3 +31,16 @@ the data that we collected for the paper, in particular:
 - `column-distribution-data-and-plots` data and plots divided by vendor
 - `stats` output of `stats.awk` with aggregated stats for all the test
     categories, also divided by vendor
+
+For the paper we excluded results coming from rows with less than 5
+bit-flips since these  rows will yield less than 64 bits of entropy
+(when assuming a uniform distribution, computed as 
+`log2(comb(16384, 5))`), and therefore they should not be considered.
+
+For the uniqueness result, this implies that the maximum value is
+only considered if the rows considered had more than 5 bit-flips.
+We hightlight this just to avoid confusion when seeing some higher 
+`J_inter` in the logs.
+For instance, seeing `J_inter = 1.000` for rows with a single flip is 
+not significant, as we would have an perfect match with ~50% probability after only evaluating 150 rows. The amount of information is simply
+not sufficient to produce an identifier.
