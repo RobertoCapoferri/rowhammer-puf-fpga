@@ -42,5 +42,7 @@ only considered if the rows considered had more than 5 bit-flips.
 We hightlight this just to avoid confusion when seeing some higher 
 `J_inter` in the logs.
 For instance, seeing `J_inter = 1.000` for rows with a single flip is 
-not significant, as we would have an perfect match with ~50% probability after only evaluating 150 rows. The amount of information is simply
+not significant, as we would have a perfect match with ~50% probability after only evaluating 150 rows. The amount of information is simply
 not sufficient to produce an identifier.
+
+What threshold to choose for bits of information would depend on the application and is outside the scope of the paper.
